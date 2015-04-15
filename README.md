@@ -53,7 +53,4 @@ The patterns can be structured in roughly three different categories. Please cli
 * [ServiceLocator](More/ServiceLocator) [:notebook:](http://en.wikipedia.org/wiki/Service_locator_pattern)
 * [Repository](More/Repository)
 
-## Contribute
-
-Please feel free to fork and extend existing or add your own examples and send a pull request with your changes!
 
